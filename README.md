@@ -9,6 +9,5 @@
     ./A_star
 最终是效果：
         
-        
-    ![](https://github.com/HSJZY/A_star/raw/master/A_star_for_maze.png)  
+![image](https://github.com/HSJZY/A_star/raw/master/A_star_for_maze.png)  
 
